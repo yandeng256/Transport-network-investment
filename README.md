@@ -7,6 +7,8 @@ ecoLoss_Fiji.py: python script for economic loss analysis given an investment se
 
 stressTest_Fiji: python script for stress testing
 
+optimization_FJ: the optimization script to priorize the infrastructure to invest under budget. We use Gurobi as the optimization solver. A paper is attached as a reference for the algorithm. 'Pre-disaster investment decisions for strengthening a highway network' 
+
 network_lib: road network library developed by Delft U
 
 FJ_inputs: input files with all road network, structure with WD information, and OD information for Fiji north/south island
